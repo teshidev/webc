@@ -35,3 +35,16 @@ main h2 {
   border-bottom: solid 1px black; /* 底の線、太さ、色 */
   padding-left: 1em; /* 左の余白 */
 }
+
+main p {
+  margin-top: 1em; /* トップ余白 */
+  margin-bottom: 0.5em; /* ボトム余白 */
+}
+
+strong.red {
+  color: red;
+}
+
+strong.blue {
+  color: blue;
+}
